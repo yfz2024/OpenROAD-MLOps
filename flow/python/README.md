@@ -1,4 +1,4 @@
-# ORFS Python flow (Milestone 1 sandbox)
+# ORFS Python flow
 
 Python port of `flow/scripts/*.tcl`. **Does NOT replace** the TCL flow yet — TCL
 scripts in `flow/scripts/` remain authoritative. This directory is the
